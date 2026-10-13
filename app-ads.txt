@@ -1,0 +1,2 @@
+# Doi tac duy nhat ban quang cao cho ung dung nay la Google AdMob.
+google.com, pub-6517355697063985, DIRECT, f08c47fec0942fa0
